@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"One day this program will take over the universe!"
 Use the left arrow to go back!
